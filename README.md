@@ -5,12 +5,6 @@
 
 - Projede veritabanı için MSSQL Localdb kullanıldı.
 
-- Kimlik doğrulama ve yetkilendirme özellikleri eklendi.
-
-- Transaction,Cache,Validation ve Performance yönetimi eklendi.
-
-- IoC ve Autofac desteği eklendi.
-
 # Kurumsal Katmanlı Mimari
 
 - **Entities**: Projenin varlık katmanıdır.Veritabanı tabloları ile proje nesneleri eşleştirilir.Nesnelerin özelliklerini filtrelemek veya genişletmek için DTO'lar kullanılır.
